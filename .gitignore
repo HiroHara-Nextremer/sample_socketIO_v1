@@ -1,6 +1,7 @@
 # Dependency dirs
 node_modules
 jspm_packages
+package-lock.json
 
 #npm cache
 .npm
